@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">テーマ別電卓</string>
+    <string name="junglebackground_text">jungleBackground</string>
+    <string name="select_your_pokemon_text">あなたのポケモンを選択してください</string>
+    <string name="bulbasaur_text">bulbasaur</string>
+    <string name="charmander_text">charmander</string>
+    <string name="squirtle_text">squirtle</string>
+    <string name="operand_1_text">オペランド1</string>
+    <string name="operand_2_text">オペランド2</string>
+    <string name="finalResult_Text">結果</string>
+    <string name="finalResult_Number"></string>
+    <string name="x_text"></string>
+    <string name="y_text"></string>
+    <string name="plus_text">+</string>
+    <string name="minus_text">-</string>
+    <string name="multiply_text">*</string>
+    <string name="divide_text">/</string>
+    <string name="fatorial_text">%</string>
+    <string name="sqrt_text">**</string>
+    <string name="set_text">セットする</string>
+    <string name="get_text">取得する</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Thematic Calculator</string>
+    <string name="junglebackground_text">jungleBackground</string>
+    <string name="select_your_pokemon_text">Choose your pokemon</string>
+    <string name="bulbasaur_text">bulbasaur</string>
+    <string name="charmander_text">charmander</string>
+    <string name="squirtle_text">squirtle</string>
+    <string name="operand_1_text">Operand 1</string>
+    <string name="operand_2_text">Operand 2</string>
+    <string name="finalResult_Text">Result</string>
+    <string name="finalResult_Number"></string>
+    <string name="x_text"></string>
+    <string name="y_text"></string>
+    <string name="plus_text">+</string>
+    <string name="minus_text">-</string>
+    <string name="multiply_text">*</string>
+    <string name="divide_text">/</string>
+    <string name="fatorial_text">%</string>
+    <string name="sqrt_text">**</string>
+    <string name="set_text">Set</string>
+    <string name="get_text">Get</string>
+</resources>
