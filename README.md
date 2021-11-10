@@ -72,7 +72,7 @@ Youtube - [https://www.youtube.com/channel/UCuzo8NbNm7MCut_lDQ7WNvw](https://www
 
 ArtStation - [https://www.artstation.com/barrythecoolbee](https://www.artstation.com/barrythecoolbee)
 
-Project Link - [https://github.com/barrythecoolbee/ProsperityShelterApp](https://github.com/barrythecoolbee/PokemonCalculatorApp)
+Project Link - [https://github.com/barrythecoolbee/PokemonCalculatorApp](https://github.com/barrythecoolbee/PokemonCalculatorApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
