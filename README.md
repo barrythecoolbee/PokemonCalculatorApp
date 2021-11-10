@@ -10,15 +10,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/barrythecoolbee/ProsperityShelterApp">
-    <img src="app/src/main/res/drawable/logo2.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/barrythecoolbee/PokemonCalculatorApp">
+    <img src="app/src/main/res/drawable/pokeball.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Thematic Calculator</h3>
 
   <p align="center">
     This tutorial was aimed to develop a simple calculator with an interface adjustable to any screen with content related to a theme.
-
     <br />
     <br />
     >>
@@ -34,11 +33,9 @@
 ## About The Project
 
 <p align="center">
-<img src="app/src/main/res/drawable/Intro.png" alt="Logo" width="150" height="267">
-<img src="app/src/main/res/drawable/Login.png" alt="Logo" width="150" height="267">
-<img src="app/src/main/res/drawable/Intro2.png" alt="Logo" width="150" height="267">
-<img src="app/src/main/res/drawable/Home.png" alt="Logo" width="150" height="267">
-<img src="app/src/main/res/drawable/PetProfile.png" alt="Logo" width="150" height="267">
+<img src="app/src/main/res/drawable/bulbasaur.png" alt="Logo" width="150" height="267">
+<img src="app/src/main/res/drawable/charmander.png" alt="Logo" width="150" height="267">
+<img src="app/src/main/res/drawable/squirtle.png" alt="Logo" width="150" height="267">
 </p>
 
 This work was aimed to introduce the application development environment for Android devices. The project introduces the anatomy of an Android program. From the application
@@ -75,7 +72,7 @@ Youtube - [https://www.youtube.com/channel/UCuzo8NbNm7MCut_lDQ7WNvw](https://www
 
 ArtStation - [https://www.artstation.com/barrythecoolbee](https://www.artstation.com/barrythecoolbee)
 
-Project Link: [https://github.com/barrythecoolbee/ProsperityShelterApp](https://github.com/barrythecoolbee/ProsperityShelterApp)
+Project Link: [https://github.com/barrythecoolbee/ProsperityShelterApp](https://github.com/barrythecoolbee/PokemonCalculatorApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
